@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\Administrator\Desktop\XamarinApi</_PublishTargetUrl>
+    <History>True|2021-12-02T04:46:47.0298406Z;True|2021-12-02T10:15:19.0773838+05:30;True|2021-12-01T18:09:45.5908863+05:30;True|2021-12-01T18:02:29.5039035+05:30;</History>
+  </PropertyGroup>
+</Project>
